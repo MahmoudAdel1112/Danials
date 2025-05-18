@@ -2,7 +2,7 @@
 const section = document.querySelector(".header");
 
 // Select the target elements to modify
-const targetElement = document.querySelector(".parent-navbar-custom");
+const targetElement = document.querySelector(".navbar-custom");
 const navElements = document.querySelectorAll(".nav-link-custom, .logo");
 
 // Define the observer callback function
